@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.wei-sun-oven.com/sitemap.xml
